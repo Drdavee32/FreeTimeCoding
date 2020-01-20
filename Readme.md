@@ -1,0 +1,1 @@
+These are my Personal projects and most of them are samples of me testing new code or just coding in my free time. I mostly code in Java,JavaScript, C++, C# and Sometimes in Python. Always pushing the limits on what something can do and just having fun in the process.
